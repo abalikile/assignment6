@@ -35,7 +35,7 @@ function Footer() {
       <h4 className="text-center">
         Full source code available at this
         {' '}
-        <a href="https://github.com/abalikile/assignment4">
+        <a href="https://github.com/abalikile/assignment6">
           GitHub repository
         </a>
       </h4>
